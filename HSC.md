@@ -1,4 +1,3 @@
-```markdown
 # 赫菲斯托斯系统概念
 **HephaestusSystem Concept**
 **HSC-W1.5**
